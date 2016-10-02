@@ -1,0 +1,11 @@
+*.iml
+.gradle
+.idea
+build/
+*.class
+.DS_Store
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+!gradle-wrapper.jar
